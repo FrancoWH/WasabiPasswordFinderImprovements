@@ -52,3 +52,4 @@ SUCCESS: Password found: >>> pato <<<
 
 This process is rather slow and CPU heavy. Even for a 10 chars length password it can take significant time to run and
 finding the error is not warranted in any case. Please review the code before running it.
+
